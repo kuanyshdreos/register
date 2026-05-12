@@ -1,1 +1,9 @@
-cname.vercel-dns.com
+{
+  "owner": {
+    "username": "kuanyshdreos",
+    "email": "kuanyshbai44@gmail.com"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
